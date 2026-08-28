@@ -1,0 +1,6 @@
+{
+  "name": "HabitTrack AI",
+  "description": "AI Life & Habit Coach with habits, daily planner, goals, sleep, water, workout, focus, mood, journal, and AI coaching in বাংলা & English",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
